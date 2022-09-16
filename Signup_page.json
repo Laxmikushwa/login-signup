@@ -1,0 +1,23 @@
+{
+    "User": [
+        {
+            "username": "laxmi kushwaha",
+            "password": "laxmi@123",
+            "Profile": {
+                "Dob": "19/02/2004",
+                "Gender": "female",
+                "Hobbies": "dancing,crafting"
+            }
+        },
+        {
+            "username": "sw",
+            "password": "swa@123",
+            "Profile": {
+                "description": "ert",
+                "Dob": "345",
+                "Gender": "fmuy",
+                "Hobbies": "werr"
+            }
+        }
+    ]
+}
